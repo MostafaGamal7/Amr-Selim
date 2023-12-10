@@ -1,10 +1,10 @@
-import '../src/assets/styles/main.css';
-import Home from './components/home/Home';
-import About from "./components/about/About"
-import Projects from './components/projects/Projects';
-import Contact from './components/contact/Contact';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Services from './components/services/Services';
+import "../src/assets/styles/main.css";
+import Home from "./components/home/Home";
+// import About from "./components/about/About"
+// import Projects from './components/projects/Projects';
+// import Contact from './components/contact/Contact';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+// import Services from './components/services/Services';
 
 // const handleLightMode = () => {
 // Toggle the body class for light/dark mode
