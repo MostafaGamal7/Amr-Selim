@@ -5,7 +5,7 @@ import dark_icon from '../../assets/images/dark-mode-icon.png';
 
 
 
-const ServicesHeader = ({ isLightMode, toggleLightMode }) => {
+const ServicesHeader = ({ isLightMode }) => {
     const [activeLink, setActiveLink] = useState('#home');
     const [isOpen, setIsOpen] = useState(false);
     const [isSticky, setIsSticky] = useState(false);

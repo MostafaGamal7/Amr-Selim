@@ -1,7 +1,7 @@
 import React from 'react'
-import ServicesHeader from './ServicesHeader'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCake, faLaptopCode, faPalette, faBolt, faPhotoFilm } from '@fortawesome/free-solid-svg-icons'
+// import ServicesHeader from './ServicesHeader'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faPalette, faBolt, faPhotoFilm } from '@fortawesome/free-solid-svg-icons'
 // import { faFacebook, faBehance, faDribbble, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import Service from './Service.jsx'
 import { motion } from "framer-motion"
